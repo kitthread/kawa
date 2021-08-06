@@ -27,6 +27,5 @@ class PowerShellJavaDemo {
 			System.out.println("Output: " + line);
 		}
 		stderr.close();
-
 	}
 }
